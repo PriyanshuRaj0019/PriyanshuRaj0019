@@ -118,11 +118,10 @@ Explore my repositories for source code, implementation details, and project doc
 
 ## 📈 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PriyanshuRaj0019&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshuRaj0019&layout=compact&hide_border=true&theme=github_dark)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=PriyanshuRaj0019&theme=github-dark-blue&hide_border=true)
 
 ---
 
