@@ -1,126 +1,115 @@
 <div align="center">
-  <img src="profile-banner.svg" alt="Priyanshu Raj — AI/ML Engineering" width="100%" />
-  <br />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=F5C451&center=true&vCenter=true&width=800&lines=AI%2FML+Engineering;Generative+AI+%26+RAG;Data+%E2%86%92+Models+%E2%86%92+Production" alt="Animated headline: AI/ML Engineering, Generative AI and RAG, Data to Production" />
-  <br />
-  <a href="https://github.com/PriyanshuRaj0019"><img src="https://img.shields.io/badge/GitHub-PriyanshuRaj0019-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" /></a>
-  <a href="https://www.linkedin.com/in/priyanshu-raj-ml"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:priyanshurajpr19@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · priyanshuraj0019</sub></p>
+<h1>Priyanshu Raj</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Developer &amp; ML Enthusiast | Bridging data science with business strategy. Focused on deep learning, Python, and system optimization</p>
+<p><strong>● Building and sharing work in public</strong></p>
+
+<p><a href="https://github.com/priyanshuraj0019">GitHub</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/priyanshu-raj-ml/">Website</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/142869384?u=2964af070bd669ca13b3c9976541d0e6d9c513cc&amp;v=4" width="180" alt="Priyanshu Raj GitHub avatar" />
+</td>
+</tr>
+</table>
 </div>
 
-<h1 align="center">Hi, I'm Priyanshu Raj 👋</h1>
+<h2>What teams can evaluate quickly</h2>
 
-<h3 align="center">AI/ML Engineering · Generative AI · Data Science · Software Engineering</h3>
-
-<p align="center">
-  I build practical projects that connect data, machine learning, and AI applications—with a focus on clear evaluation, useful interfaces, and maintainable software.
-</p>
-
-<p align="center">
-  <a href="#featured-projects">Featured Projects</a> ·
-  <a href="#toolkit">Toolkit</a> ·
-  <a href="#github-activity">GitHub Activity</a> ·
-  <a href="https://www.linkedin.com/in/priyanshu-raj-ml">LinkedIn</a>
-</p>
-
-$ whoami
-- 🧠 Focused on Machine Learning, Deep Learning, Generative AI, and AI application engineering.
-- 🧪 Interested in retrieval-augmented generation (RAG), evaluation, model experimentation, and data-driven systems.
-- ⚙️ Building across the workflow: data → models → AI systems → APIs → applications.
-- 📈 Strengthening my engineering foundations in backend development, deployment, MLOps, and system design.
-- 🏎️ Outside of code: sim racing games.
-My goal: turn technical ideas into applications that are useful, testable, and maintainable.
-
-🚀 Featured Projects
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/PriyanshuRaj0019/StadiumGPT">🏟️ StadiumGPT</a></h3>
-      <p>A generative-AI stadium operations assistant concept for fan information, navigation, crowd insights, and staff workflows.</p>
-      <p><sub><b>Focus</b></sub><br/>RAG · FastAPI · Gemini · Embeddings · FAISS · JavaScript</p>
-      <a href="https://github.com/PriyanshuRaj0019/StadiumGPT"><img src="https://img.shields.io/badge/Explore-Repository-2563EB?style=flat-square" alt="Explore StadiumGPT" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/PriyanshuRaj0019/bike-sharing-demand-prediction">🚲 Bike Sharing Demand Prediction</a></h3>
-      <p>A regression workflow for forecasting bike rentals from weather, time, and seasonal features, with model comparisons and an interactive app.</p>
-      <p><sub><b>Focus</b></sub><br/>Python · Pandas · Scikit-learn · Feature Engineering · Streamlit</p>
-      <a href="https://github.com/PriyanshuRaj0019/bike-sharing-demand-prediction"><img src="https://img.shields.io/badge/Explore-Repository-2563EB?style=flat-square" alt="Explore Bike Sharing Demand Prediction" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/PriyanshuRaj0019/AI-Resume-Analyzer">🧾 AI Resume Analyzer</a></h3>
-      <p>An AI-powered web application built with Google AI Studio and deployed on Google Cloud Run.</p>
-      <p><sub><b>Focus</b></sub><br/>Gemini · JavaScript · Web UI · Cloud Run</p>
-      <a href="https://ai-resume-analyzer-118086578252.asia-southeast1.run.app"><img src="https://img.shields.io/badge/Live-Demo-16A34A?style=flat-square" alt="Open live demo" /></a>
-      <a href="https://github.com/PriyanshuRaj0019/AI-Resume-Analyzer"><img src="https://img.shields.io/badge/Explore-Repository-2563EB?style=flat-square" alt="Explore AI Resume Analyzer" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/PriyanshuRaj0019/Crop_Weed_Detection">🌱 Crop & Weed Detection</a></h3>
-      <p>A computer-vision project exploring image analysis for crop and weed identification in precision agriculture.</p>
-      <p><sub><b>Focus</b></sub><br/>Python · OpenCV · NumPy · Image Processing</p>
-      <a href="https://github.com/PriyanshuRaj0019/Crop_Weed_Detection"><img src="https://img.shields.io/badge/Explore-Repository-2563EB?style=flat-square" alt="Explore Crop and Weed Detection" /></a>
-    </td>
-  </tr>
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · Jupyter Notebook · Python · TypeScript</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>23 repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>179 contributions · 27 active days</p></td>
+</tr>
 </table>
 
-🧰 Toolkit
-Core languages
+<p><sub>Developer &amp; ML Enthusiast | Bridging data science with business strategy. Focused on deep learning, Python, and system optimization</sub></p>
 
+<h2>Proof at a glance</h2>
 
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>23</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>179</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>1</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=priyanshuraj0019&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F142869384%3Fu%3D2964af070bd669ca13b3c9976541d0e6d9c513cc%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=priyanshuraj0019&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F142869384%3Fu%3D2964af070bd669ca13b3c9976541d0e6d9c513cc%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Priyanshu Raj GitHub proof metrics" />
+</picture>
+</p>
 
+<h2>Selected work</h2>
 
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=priyanshuraj0019&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F142869384%3Fu%3D2964af070bd669ca13b3c9976541d0e6d9c513cc%26v%3D4&repos=priyanshuraj0019%2FData-Cleaning-Reporting-Automation%2Cpriyanshuraj0019%2FCustomer-Churn-Analysis%2Cpriyanshuraj0019%2FQuote-Generator-App%2Cpriyanshuraj0019%2FUser-Profile-Card-Generator&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=priyanshuraj0019&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F142869384%3Fu%3D2964af070bd669ca13b3c9976541d0e6d9c513cc%26v%3D4&repos=priyanshuraj0019%2FData-Cleaning-Reporting-Automation%2Cpriyanshuraj0019%2FCustomer-Churn-Analysis%2Cpriyanshuraj0019%2FQuote-Generator-App%2Cpriyanshuraj0019%2FUser-Profile-Card-Generator&v=recruiter-projects-1&mode=dark" width="100%" alt="Priyanshu Raj selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/PriyanshuRaj0019/Data-Cleaning-Reporting-Automation">Data-Cleaning-Reporting-Automation</a></h3>
+<p>Automated data cleaning, preprocessing, reporting, and dashboard creation using Python and Power BI. The project handles missing values, removes dupli</p>
+<p><sub>Jupyter Notebook · ⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/PriyanshuRaj0019/Data-Cleaning-Reporting-Automation">Read the repository →</a></p>
+</td>
+</tr>
+</table>
 
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/PriyanshuRaj0019/Customer-Churn-Analysis">Customer-Churn-Analysis</a></h3><p>A selected public project.</p><p><sub>Jupyter Notebook · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/PriyanshuRaj0019/Quote-Generator-App">Quote-Generator-App</a></h3><p>A selected public project.</p><p><sub>CSS · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/PriyanshuRaj0019/User-Profile-Card-Generator">User-Profile-Card-Generator</a></h3><p>A selected public project.</p><p><sub>HTML · ⭐ 0</sub></p></td>
+</tr>
+</table>
 
+<h2>Technical toolkit</h2>
 
-Data & machine learning
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=priyanshuraj0019&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F142869384%3Fu%3D2964af070bd669ca13b3c9976541d0e6d9c513cc%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=priyanshuraj0019&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F142869384%3Fu%3D2964af070bd669ca13b3c9976541d0e6d9c513cc%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Priyanshu Raj technology stack" />
+</picture>
+</p>
 
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>Jupyter Notebook</strong><br /><sub>89% of public code</sub></td>
+<td width="20%" align="center"><strong>Python</strong><br /><sub>6% of public code</sub></td>
+<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>2% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>1% of public code</sub></td>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>1% of public code</sub></td>
+</tr>
+</table>
 
+<h2>Consistency signal</h2>
 
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=priyanshuraj0019&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F142869384%3Fu%3D2964af070bd669ca13b3c9976541d0e6d9c513cc%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=priyanshuraj0019&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F142869384%3Fu%3D2964af070bd669ca13b3c9976541d0e6d9c513cc%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Priyanshu Raj contribution activity" />
+</picture>
+</p>
 
+<hr />
 
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/priyanshuraj0019">GitHub</a><br /><a href="https://www.linkedin.com/in/priyanshu-raj-ml/">Website</a></td>
+</tr>
+</table>
 
-
-
-
-Generative AI & backend
-
-
-
-
-
-
-
-
-Databases & delivery
-
-
-
-
-
-
-
-
-<details>
-  <summary><b>More tools and topics I'm exploring</b></summary>
-  <br/>
-  CUDA / GPU computing · MLOps · Cloud deployment · LLM evaluation · System design · DSA · TypeScript · Go
-</details>
-
-📊 GitHub Activity
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PriyanshuRaj0019&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub profile statistics" />
-  <img height="165" src="https://streak-stats.demolab.com?user=PriyanshuRaj0019&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
-  <br/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshuRaj0019&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most used languages" />
-</div>
-
-🤝 Connect
-I’m interested in AI/ML engineering, Generative AI, data-driven products, and software systems.
-- Email: priyanshurajpr19@gmail.com
-- LinkedIn: linkedin.com/in/priyanshu-raj-ml
-- GitHub: @PriyanshuRaj0019
-<div align="center">
-  <sub>Building AI that ships — one well-engineered project at a time.</sub>
-</div>
+<p align="center"><sub>Priyanshu Raj · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
