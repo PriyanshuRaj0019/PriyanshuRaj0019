@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="C:\Users\HP\Downloads" alt="Priyanshu Raj — AI/ML Engineering" width="100%" />
+  <img src="profile-banner.svg" alt="Priyanshu Raj — AI/ML Engineering" width="100%" />
+  <br />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=F5C451&center=true&vCenter=true&width=800&lines=AI%2FML+Engineering;Generative+AI+%26+RAG;Data+%E2%86%92+Models+%E2%86%92+Production" alt="Animated headline: AI/ML Engineering, Generative AI and RAG, Data to Production" />
   <br />
   <a href="https://github.com/PriyanshuRaj0019"><img src="https://img.shields.io/badge/GitHub-PriyanshuRaj0019-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" /></a>
   <a href="https://www.linkedin.com/in/priyanshu-raj-ml"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -21,20 +23,15 @@
   <a href="https://www.linkedin.com/in/priyanshu-raj-ml">LinkedIn</a>
 </p>
 
----
-
-## `$ whoami`
-
-- 🧠 Focused on **Machine Learning, Deep Learning, Generative AI, and AI application engineering**.
-- 🧪 Interested in **retrieval-augmented generation (RAG), evaluation, model experimentation, and data-driven systems**.
-- ⚙️ Building across the workflow: **data → models → AI systems → APIs → applications**.
-- 📈 Strengthening my engineering foundations in **backend development, deployment, MLOps, and system design**.
+$ whoami
+- 🧠 Focused on Machine Learning, Deep Learning, Generative AI, and AI application engineering.
+- 🧪 Interested in retrieval-augmented generation (RAG), evaluation, model experimentation, and data-driven systems.
+- ⚙️ Building across the workflow: data → models → AI systems → APIs → applications.
+- 📈 Strengthening my engineering foundations in backend development, deployment, MLOps, and system design.
 - 🏎️ Outside of code: sim racing games.
+My goal: turn technical ideas into applications that are useful, testable, and maintainable.
 
-> My goal: turn technical ideas into applications that are useful, testable, and maintainable.
-
-## 🚀 Featured Projects
-
+🚀 Featured Projects
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -67,45 +64,43 @@
   </tr>
 </table>
 
-## 🧰 Toolkit
+🧰 Toolkit
+Core languages
 
-**Core languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
-**Data & machine learning**
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=flat-square&logo=scipy&logoColor=white)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
-**Generative AI & backend**
-![LLMs](https://img.shields.io/badge/LLMs-6D28D9?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-7C3AED?style=flat-square)
-![AI Agents](https://img.shields.io/badge/AI_Agents-5B21B6?style=flat-square)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-**Databases & delivery**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+
+
+
+Data & machine learning
+
+
+
+
+
+
+
+
+
+Generative AI & backend
+
+
+
+
+
+
+
+
+Databases & delivery
+
+
+
+
+
+
+
 
 <details>
   <summary><b>More tools and topics I'm exploring</b></summary>
@@ -113,8 +108,7 @@
   CUDA / GPU computing · MLOps · Cloud deployment · LLM evaluation · System design · DSA · TypeScript · Go
 </details>
 
-## 📊 GitHub Activity
-
+📊 GitHub Activity
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=PriyanshuRaj0019&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub profile statistics" />
   <img height="165" src="https://streak-stats.demolab.com?user=PriyanshuRaj0019&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
@@ -122,16 +116,11 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshuRaj0019&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most used languages" />
 </div>
 
----
-
-## 🤝 Connect
-
-I’m interested in **AI/ML engineering, Generative AI, data-driven products, and software systems**.
-
-- **Email:** [priyanshurajpr19@gmail.com](mailto:priyanshurajpr19@gmail.com)
-- **LinkedIn:** [linkedin.com/in/priyanshu-raj-ml](https://www.linkedin.com/in/priyanshu-raj-ml)
-- **GitHub:** [@PriyanshuRaj0019](https://github.com/PriyanshuRaj0019)
-
+🤝 Connect
+I’m interested in AI/ML engineering, Generative AI, data-driven products, and software systems.
+- Email: priyanshurajpr19@gmail.com
+- LinkedIn: linkedin.com/in/priyanshu-raj-ml
+- GitHub: @PriyanshuRaj0019
 <div align="center">
   <sub>Building AI that ships — one well-engineered project at a time.</sub>
 </div>
