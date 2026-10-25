@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/profile-banner.svg" alt="Priyanshu Raj — AI/ML Engineering" width="100%" />
+  <img src="C:\Users\HP\Downloads" alt="Priyanshu Raj — AI/ML Engineering" width="100%" />
   <br />
   <a href="https://github.com/PriyanshuRaj0019"><img src="https://img.shields.io/badge/GitHub-PriyanshuRaj0019-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" /></a>
   <a href="https://www.linkedin.com/in/priyanshu-raj-ml"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
